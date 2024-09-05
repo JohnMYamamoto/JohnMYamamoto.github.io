@@ -22,70 +22,59 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Java"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ivanti Neurons", "Cisco"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2028)",
+      "studyType": "B.A.",
+      "startDate": "2023-08-26",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS 111", "ICS 211"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Finance Factors",
+      "position": "IT Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-06-28",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Worked for the company's helpdesk, worked on small hardware projects for the company, and studied computer networking.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide consistently quick and amiable service to clients on the helpdesk",
+        "Diligently work with IT team to complete large-scale e-waste project for the company", "Gain a lot of practice configuring cisco switches."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Bluewater Mission",
+      "website": "https://bluewatermission.org",
+      "position": "Volunteer",
+      "startDate": "2021-09-01",
+      "endDate": "2023-03-15",
+      "summary": "Volunteer to serve homeless youth and homeless people on the streets.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Lead a team of friends to serve pizza and cold sodas to homeless people in Oahu's downtown area.",
+        "Serve meals and spend time with homeless youth at RYSE.", "
+        Served on a team that provides food, showers, and clothing to Waikiki's homeless population."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Hawaii Baptist Academy National Honor Society",
+      "website": "https://www.hba.net",
+      "position": "St. Francis/Food Delivery Committee Co-Chair and Hope for the Homeless Committee Member",
+      "startDate": "2020-08-15",
+      "endDate": "2023-05-15",
+      "summary": "Led the St. Francis and Food Delivery Committees to serve St. Francis hospital, serve at a food shelter, ",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
         "Member, IEEE Student Branch, 2014-Present",
