@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2028)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.A.",
       "startDate": "2023-08-26",
       "endDate": "Present",
@@ -47,10 +47,10 @@
       "website": "",
       "startDate": "2023-06-28",
       "endDate": "Present",
-      "summary": "Worked for the company's helpdesk, worked on small hardware projects for the company, and studied computer networking.",
+      "summary": "Working in the summers for the company's helpdesk, handling small hardware projects for the company, and studying and practicing computer networking.",
       "highlights": [
-        "Provide consistently quick and amiable service to clients on the helpdesk",
-        "Diligently work with IT team to complete large-scale e-waste project for the company", "Gain a lot of practice configuring cisco switches."
+        "Consistently provided clients with fast, detailed, and quality help with hardware, applications, and account management and creation.",
+        "Diligently worked with IT team to complete large-scale e-waste and VoIP switchover projects for the company"
       ]
     }
   ],
@@ -60,11 +60,11 @@
       "website": "https://bluewatermission.org",
       "position": "Volunteer",
       "startDate": "2021-09-01",
-      "endDate": "2023-03-15",
-      "summary": "Volunteer to serve homeless youth and homeless people on the streets.",
+      "endDate": "2024-04-15",
+      "summary": "Served homeless people on the street and at RYSE.",
       "highlights": [
-        "Lead a team of friends to serve pizza and cold sodas to homeless people in Oahu's downtown area.",
-        "Serve meals and spend time with homeless youth at RYSE.",
+        "Led teams of friends to serve pizza and cold sodas to homeless people in Oahu's downtown area.",
+        "Served meals and spent time with homeless youth at RYSE.",
         "Served on a team that provides food, showers, and clothing to Waikiki's homeless population."
       ]
     },
@@ -86,13 +86,13 @@
       "title": "Academic Merit Scholarship",
       "date": "2023-present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": Hawai’i residents with a high school cumulative GPA of 3.6 or higher will be considered for a $4,000 scholarship per year. Total $16,000 over 4 years."
+      "summary": "Hawai’i residents with a high school cumulative GPA of 3.6 or higher will be considered for a $4,000 scholarship per year."
     },
     {
       "title": "AP Scholar Award",
       "date": "2023",
       "awarder": "College Board",
-      "summary": "The AP Scholar awards are given by the College Board to students who have achieved high scores on multiple Advanced Placement (AP) exams"
+      "summary": "The AP Scholar awards are given by the College Board to students who have achieved high scores on multiple Advanced Placement (AP) exams."
     }
   ],
   "references": [
