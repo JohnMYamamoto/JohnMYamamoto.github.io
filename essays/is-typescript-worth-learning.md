@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Is Typescript Even Worth Using?"
+title: "Is Typescript Worth Learning?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
