@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/St. Francis Committee.JPG
+image: img/skatevideo/skate1.jpeg
 title: "Skate Video"
 date: 2022-09-09
 published: true
