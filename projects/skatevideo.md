@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/skatevideo/skate2.JPEG
+image: img/skate1.JPEG
 title: "Skate Video"
 date: 2022-09-09
 published: true
