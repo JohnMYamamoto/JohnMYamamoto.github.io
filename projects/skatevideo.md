@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/St. Francis Committee.JPG
-title: "St. Francis Volunteer Project"
-date: 2019-09-08
+title: "Skate Video"
+date: 2022-09-09
 published: true
 labels:
-  - Community Service
-summary: "The St. Francis Volunteer Project aimed to provide volunteer service in various areas to St. Francis Hospital to alleviate the workload of the hospital workers to allow them to focus on more critical tasks. "
+  - Video Production
+summary: "I spent a year filming and editing a skateboarding video of myself with the help of my friends and family who helped to film me."
 ---
 
-In this project, my team organized and volunteered in reoccuring volunteer days at St. Francis hospital where we worked on various tasks such as creating hospice information folders for patients, putting together gift baskets and care packages, and putting together food packages for people in need. We sought to involve other students in the project so we recruited many of our classmates to volunteer to so that they could not only help out the hospital, but also grow as people from doing work that benefitted the hospital. 
+I have been skateboarding for over four years now, and a couple of years ago when I started to progress a lot, I decided to create a skate video of myself. I spend a lot of time watching professional skate videos, and one of my long-time hobbies is video production, so it felt like a natural project to me. I biked and drove to spots around my town and outside of it, and I would ask my friends and family to film me when they could, and I would use a stand to hold my camera when I just wanted to film by myself. After a year of filming and a lot of falling, I had all of the clips that I needed to make my video. I used Apple's IMovie software to edit the video, and when it was done I finally had a full-length skate video of my own. 
