@@ -24,7 +24,7 @@ Finally, be polite to the people that help you. You're already being courteous b
 
 ## Smart Question Example
 
-Here is an example of a smart question in Stack Overflow. 
+Here is an example of a smart question in Stack Overflow. Here is a link to the question for your reference: [Stack Overflow](https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way/6802512#6802512)
 
 ```
 Q: How to directly initialize a HashMap (in a literal way)?
@@ -39,7 +39,7 @@ What would be the correct syntax? I have not found anything regarding this. Is t
 ```
 After reading through the question, a few things might stand out to other programmers that would encourage them to answer this person's question. First of all, the asker says that they have not found anything regarding their question. This means that they have been thinking about their issue and have already tried looking for an answer elsewhere. Secondly, they asked a very specific question about the functions that they are looking for in a HashMap Initialization which allows other programmers to provide a detailed and accurate answer. Finally, the writer of this question is reasonably polite about their question. They don't necessarily go out of their way to be polite, but they definitely are not demanding help and do not act entitled about their question. 
 
-Here is a link to the question for your reference as needed: [Stack Overflow](https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way/6802512#6802512)
+
 ```
 A: In case you happen to need just a single entry: There is Collections.singletonMap("key", "value").
 
@@ -91,7 +91,7 @@ Here you can see that the asker recieved a clear and detailed response to their 
 
 ## Bad Question Example
 
-The following question clearly has some issues with it, and the response clearly outlines the mistakes that the person asking made. 
+The following question clearly has some issues with it, and the response clearly outlines the mistakes that the person asking made. Here is a link to the question for your reference as needed: [Stack Overflow](https://stackoverflow.com/questions/54032781/check-tls1-2-for-sql-server-connection)
 
 ```
 Q: Check TLS1.2 for SQL Server Connection
@@ -100,9 +100,8 @@ I want to check if the connection between my application and SQL Server is used 
 
 The first thing that you might notice when reading this question, is that the person asking did try to solve the problem on their own. They tried disabling the service and also used wireshark to analyze the traffic for TLS 1.2. However, they included very few details about their issue, which makes it hard for other people to provide an appropriate answer. Additionally, the person asking did not mention doing any research on the issue, which strongly encourages a "stfw" response. Luckily the person who responded to them was polite and as helpful as they could be, but it is clear that they wanted a more clear question for them to work with. 
 
-Here is a link to the question for your reference as needed: [Stack Overflow](https://stackoverflow.com/questions/54032781/check-tls1-2-for-sql-server-connection)
 ```
-Please tell us whether your SQL Server is 2012 as the tag displayed. If so, firstly, please check whether the patch for enabling TLS 1.2 is installed.
+A: Please tell us whether your SQL Server is 2012 as the tag displayed. If so, firstly, please check whether the patch for enabling TLS 1.2 is installed.
 
 Next please check whether the update for client components and drivers are installed.
 
@@ -114,10 +113,9 @@ Please try to disable TLS1.0 1.1 and 1.2, then reboot your machine and test whet
 
 By the way, you can see the blog to verify if a connection to SQL Server is Encrypted.
 ```
+
 The question was missing important information like what year the SQL server is, and the mention of different articles and blogs with information on the issue is a clear indicator that the question was wasting the person responding's time a little bit as the person asking could've read those articles before moving on to the open source community. The question is a little rude, and for a less polite person, would have elicited an equally rude response back. 
 
 ## Putting it into practice
 
 When working with people, the concept of giving and taking is ever present. Online open source communities are no different. If you want someone to put a lot of effort in their response to your question, it helps to put a lot of effort into asking your question! One thing I have noticed while going through questions on Stack Overflow is that the more details and specifications one can include in their question, the more precise and clear the response is. Because even if there are kind people out there who are willing to sit and think about a vague question for a while, they will have to still ultimately give a vague response because that's what they're basing their answer off of.So make it easier for yourself and them, and ask detailed, smart questions! 
-
-
