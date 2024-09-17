@@ -16,4 +16,4 @@ I am new to the field of software engineering and one of the first things I woul
 
 Another key part of engineering is the maintainenance of software, which I know nothing about. I hope to gain the experience of maintaining software. I would like to learn how to create and test patches, and adapt my software to changes in the security field as well as updating features to make my software more efficient and user friendly. One type of software that I am interested in learning how to engineer is software that interacts with hardware of some sort. It would be interesting to design and maintain a software that ran automations for some sort of hardware, like the one at the Oahu Wastewater Treatment plants. 
 
-While I am new to the field of software engineering, I am excited to learn every aspect of it with the hopes that I can someday put my software engineering skills to use in the real world to design an effective and cohesive system. 
+While I am new to the field of software engineering, I am excited to learn every aspect of it with hopes that I can someday put my software engineering skills to use in the real world to design an effective and cohesive system. 
