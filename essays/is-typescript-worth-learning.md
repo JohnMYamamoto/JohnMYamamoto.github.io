@@ -7,11 +7,13 @@ date: 2024-09-05
 published: true
 labels:
   - Software Engineering
-  - Learning
+  - Learnings
   - Typescript
 ---
 
-A week ago, for the first time ever, I learned what Typescript is. I am taking a Software Engineering class at UH Manoa and I am required to use Typescript (a superset of Javascript) to program. I have only taken two programming classes in my life, and I have no experience before that. Both of those classes were in Java. I feel like Typescript actually isn't that different from Java. Becuase they are both object oriented, it feels to me as if both function in the same way, just perhaps used for slighly different purposes. Java is more of a general programming language I feel, and Typescript is more for web application development. 
+A week ago, for the first time ever, I learned what Typescript is. I am taking a Software Engineering class at UH Manoa and I am required to use Typescript (a superset of Javascript) to program. I am fairly new to computer science, and my only experience is in Java. In this essay, I am going to compare TypeScript to Java, give some thoughts on the language, and talk a little bit about a pedagogy called Athletic Software Engineering. 
+
+First off, I feel like Typescript actually isn't that different from Java. Becuase they are both object oriented, it feels to me as if both function in the same way, just perhaps used for slighly different purposes. 
 
 From a programming perspective, I feel like Typescript is an efficient language to write once one gets the hang of it, and has many uses in software development. It is fair to say that Typescript is more tedious to write compared to Javascript due to static typing, but the time that static typing saves in the debugging process more than makes up for the miniscule bit of tedium in writing types into one's code. Typescript is a very capable language for web application because its type casting allows for easier readability for collaboration as well as better maintainability for large scale application development. Additionally, Typescript has a large community that offers a lot of support for the language, and it works well with popular frameworks such as react and Express.js.
 
