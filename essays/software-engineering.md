@@ -6,7 +6,7 @@ title: "Diving Into Software Engineering"
 date: 2025-01-20
 published: true
 labels:
-  - Software Engineering
+  - Software Engineering 
   - Learning
 ---
 
