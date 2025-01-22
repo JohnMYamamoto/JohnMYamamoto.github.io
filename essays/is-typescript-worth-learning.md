@@ -27,5 +27,5 @@ P3: Pros and cons of athletic software engineering
 
 
 
-<h3> Works Cited <\h3>
+<h3> Works Cited </h3>
 “What Is Typescript and Why You Should Use It.” Codeworks, 19 Aug. 2024, codeworks.me/blog/what-is-typescript-and-why-you-should-use-it/. 
