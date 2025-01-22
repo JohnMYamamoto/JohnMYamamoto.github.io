@@ -1,20 +1,31 @@
 ---
 layout: essay
 type: essay
-title: "Is Typescript Worth Learning?"
+title: ""
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2025-01-21
 published: true
 labels:
   - Software Engineering
-  - Learnings
+  - Learning
   - Typescript
 ---
+What do you think about Typescript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Typescript is a good or bad programming language from a software engineering perspective?
 
-A week ago, for the first time ever, I learned what Typescript is. I am taking a Software Engineering class at UH Manoa and I am required to use Typescript (a superset of Javascript) to program. I am fairly new to computer science, and my only experience is in Java. In this essay, I am going to compare TypeScript to Java, give some thoughts on the language, and talk a little bit about a pedagogy called Athletic Software Engineering. 
+What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
-First off, I feel like Typescript actually isn't that different from Java. Becuase they are both object oriented, it feels to me as if both function in the same way, just perhaps used for slighly different purposes. 
+P1: My experience with TS so far
+I am quite new to Typescript. My experience is unique in that I actually took a month of the course I am taking right now, ICS 314 at UH Manoa last semester, but dropped out because of mental health reasons. So I have about a month's worth of ICS 314 Typescript/Javascript experience from this class and nothing before that. From what I have seen so far, Typescript is a great language. I think that it is not only an effective language for building the front-end side of web applications, but also very useful for backend, mobile app, and desktop development. Typescript can be used in a plethora of ways. There are a lot of frameworks for it such as React and Next.js, and it is very compatible with Javascript code, so developers don't have to make a huge leap from JS to TS, but can make a gradual transition over instead. The widesperead usage of Typescript makes it easy to find resources for it, and the type safety that it provides only improves Javascript code in my opinion. I am a proponent of Typescript. 
 
-From a programming perspective, I feel like Typescript is an efficient language to write once one gets the hang of it, and has many uses in software development. It is fair to say that Typescript is more tedious to write compared to Javascript due to static typing, but the time that static typing saves in the debugging process more than makes up for the miniscule bit of tedium in writing types into one's code. Typescript is a very capable language for web application because its type casting allows for easier readability for collaboration as well as better maintainability for large scale application development. Additionally, Typescript has a large community that offers a lot of support for the language, and it works well with popular frameworks such as react and Express.js.
+P2: My hopes for TS in the future
+-I hope to work on a front-end project in TS 
+-I hope to experience using Typescript in different areas such as back end and desktop development
+-I hope to become competent in Typescript so that I can potentially use it in my career someday
 
-In my Software Engineering class, we were introduced to a pedagogy called athletic software engineering. It compares software engineering to sports, which have specific skills to learn and muscles to build. In this pedagogy, it is believed that certain "skills" and "muscles" can be developed through skill-specific exercises called "workouts." I believe that athletic SE is a great way to become a better software developer. When engineering software, there are a million different ways one can go about how to do it. However, some ways are better than others. Workouts allow software engineers to build habits and skills that will allow them to efficiently and confidently design software to the best of their ability. Again, this ties to the concept of sports, where working out the proper technique will allow one to play their sport much better than just playing in whatever way they feel like. In conclusion, I am a big supporter of athletic software engineering and I am glad that I am learning it in my class. 
+P3: Pros and cons of athletic software engineering
+-
+
+
+
+<h3> Works Cited <\h3>
+“What Is Typescript and Why You Should Use It.” Codeworks, 19 Aug. 2024, codeworks.me/blog/what-is-typescript-and-why-you-should-use-it/. 
