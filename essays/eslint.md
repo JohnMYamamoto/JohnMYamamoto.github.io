@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "ESLint Is Your Friend"
 date: 2024-09-24
-published: true
+published: false
 labels:
   - ESLint
   - Coding Standards
