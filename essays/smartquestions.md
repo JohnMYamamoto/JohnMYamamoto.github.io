@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Question is in the Details"
 date: 2024-09-12
-published: true
+published: false
 labels:
   - Questions
   - Answers
