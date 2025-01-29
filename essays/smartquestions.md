@@ -11,8 +11,10 @@ labels:
 ---
 
 Paragraph 1: Why smart questions are important
-Often the quality of an answer originates from the quality of the question being answered. Anyone can relate to asking an obvious or unrelated question in school and recieving a sigh from their teacher paired with the response question of "Are you even paying attention in this class young woman/man"? 
+Often the quality of an answer originates from the quality of the question being answered. Anyone can relate to the sting of a blunt response to a poorly formed question. "Are you even trying?," our peers sometimes ask us when we are careless with our inquiries. Well, the first step to asking good questions is to try, and the second step is to have a well-thought-out strategy to asking good questions. 
+
 Paragraph 2: What constitutes a smart question?
+After reading "How to ask questions the smart way" by Eric Raymond and done some thinking of my own, I have come up with a simple guideline for asking smart questions particularly in open-source communities. 
 
 Paragraph 3 & 4: The questions and how they do or don't fill the precepts for smart questions
 
