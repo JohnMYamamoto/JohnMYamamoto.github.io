@@ -5,8 +5,8 @@ title: "First Thoughts on Bootstrap 5"
 date: 2025-02-27
 published: true
 labels:
-    -UI Frameworks
-    -Bootstrap 5
+- UI Frameworks
+- Bootstrap 5
 ---
 
 ## What is Bootstrap 5?
